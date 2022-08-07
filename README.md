@@ -1,5 +1,9 @@
 # Googlenews.css
 Tweaks and theme for google news old and new version - Work in progress just for fun
+For Firefox users :
+add this line at start of the userContent.css :
+
+@import url("Googlenews.css");
 
 **Old**
 
