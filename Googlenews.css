@@ -86,6 +86,9 @@ domain("google.com") {
 		padding: 0px !important;
 	}
 
+
+
+
 	.pjBVq,
 	.Ly25Ed,
 	.sQBzPb,
@@ -147,13 +150,16 @@ domain("google.com") {
 		background-color: #1e1d2d !important;
 		border: none !important;
 	}
-         .gb_Qe{
-                      background-color: #000000 !important;
-                      border: none !important;
-              }
-              .EyERq {
-              	border-radius: 100% !important;
-              }
+
+	.gb_Qe {
+		background-color: #000000 !important;
+		border: none !important;
+	}
+
+	.EyERq {
+		border-radius: 100% !important;
+	}
+
 	.gb_Je,
 	.gb_gf,
 	.VISqTe,
@@ -175,20 +181,30 @@ domain("google.com") {
 		border-color: none !important;
 		outline-color: none !important;
 	}
-.gb_1d, .gb_Fe, .gb_1d.gb_Oe.VISqTe, .Ax4B8.ZAGvjd {
-  background-color: #000000 !important;
-                  border-color: none !important;
-                  background-image: none !important;
-                  outline: none !important;
-}
 
-.gb_Fe {
-	 border-radius: 32px !important;
-}
+	.gb_1d,
+	.gb_Fe,
+	.gb_1d.gb_Oe.VISqTe,
+	.Ax4B8.ZAGvjd {
+		background-color: #000000 !important;
+		border-color: none !important;
+		background-image: none !important;
+		outline: none !important;
+	}
+
+	.gb_Fe {
+		border-radius: 32px !important;
+	}
+
 	.gb_gf .gb_jf {
 		margin-right: 0 !important;
 	}
-.gb_td, .gb_nd, .gb_zd, .gb_Rc, .gb_sd.gb_Cd.gb_Ue.gb_Te.gb_Ze,
+
+	.gb_td,
+	.gb_nd,
+	.gb_zd,
+	.gb_Rc,
+	.gb_sd.gb_Cd.gb_Ue.gb_Te.gb_Ze,
 	.gb_Ne {
 		background-color: #1e1d2d !important;
 		background-image: none !important;
@@ -217,7 +233,7 @@ domain("google.com") {
 	.pjBVq {
 		outline: #1e90ff 1px !important;
 		font-family: Fira Sans !important;
-		
+
 		border-color: #1e90ff !important;
 		background-color: #1e90ff40 !important;
 	}
@@ -306,7 +322,8 @@ domain("google.com") {
 		border-radius: 4px !important;
 	}
 
-        .WwrzSb, .XlKvRb,
+	.WwrzSb,
+	.XlKvRb,
 	h2,
 	a * {
 		font-family: Fira Sans !important;
